@@ -25,4 +25,8 @@
   "spellright.notificationClass": "warning",
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
+  "cSpell.enabled": false,
+  "cSpell.enableFiletypes": [
+    "markdown"
+  ],
 }
